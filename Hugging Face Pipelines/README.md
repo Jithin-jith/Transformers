@@ -1,7 +1,6 @@
 ✨ **Hugging Face Pipelines**  
 
-Pipelines provide a **simple and efficient way** to run inference with models.  
-They act as **high-level objects** that hide the complex details of the library, offering a clean API for tasks like:  
+Pipelines provide a **simple and efficient way** to run inference with models. They act as **high-level objects** that hide the complex details of the library, offering a clean API for tasks like:  
 
 - 🏷️ **Named Entity Recognition (NER)**  
 - 🎭 **Masked Language Modeling**  
